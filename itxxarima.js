@@ -25,4 +25,4 @@ module.exports = app
 /**
     powered by arima tech team 
     join Whatsapp channel for more updates 
-    **/￼Enter
+    **/￼

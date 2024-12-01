@@ -1,12 +1,12 @@
 {
     "description": "arimasession",
-    "main": "./itxxwasi.js",
+    "main": "./itxxarima.js",
   "engines" : { 
     "npm" : ">=9.7.2",
     "node" : ">=20.0.0"
     },
     "scripts": {
-    "start": "node itxxwasi.js"
+    "start": "node itxxarima.js"
   },
   "author": "ArimaTech",
   "license": "MIT license",

@@ -70,10 +70,10 @@ router.get('/', async (req, res) => {
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/Arima_x 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Arima Forger*
+©*2024-2099 CYBER TECH ☢️*
 
 _Don't Forget To Give Star To My Repo_`
- await Pair_Code_By_Cyber_Tech.sendMessage(Pair_Code_By_Cyber_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
+ await Pair_Code_By_Cyber_Tech.sendMessage(Pair_Code_By_Cyber_Tech.user.id,{text: OKARUN_MD_TEXT},{quoted:session})
  
 
         await delay(100);

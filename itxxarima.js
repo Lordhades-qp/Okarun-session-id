@@ -23,6 +23,6 @@ Don't Forget To Give Star
 })
 module.exports = app
 /**
-    powered by arima tech team 
+    powered by CYBER TECH  team 
     join Whatsapp channel for more updates 
     **/￼

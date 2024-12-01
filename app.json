@@ -2,7 +2,7 @@
     "name": "Arima Session Generator",
     "description": "I'm Web Session Generator by Itxx Me Arima",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/Lordhades-qp/Okarun-session-id",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],

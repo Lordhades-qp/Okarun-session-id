@@ -1,8 +1,8 @@
 {
-    "name": "Arima Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Arima",
+    "name": "MASTERMIND V1 SESSION",
+    "description": "I'm Web Session Generator by 𓄂⍣⃝ ❦︎⃟𓍝𝚳𝚫𝐒𝚻𝚵𝚪𝚳𝚰𝚴𝐃☠︎ ⃝⃞",
     "logo": "",
-    "repository": "github.com/Lordhades-qp/ARIMA-BOT",
+    "repository": "github.com/Lordhades-qp/MASTERMIND-V1",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],

@@ -3,10 +3,10 @@
     "main": "./itxxarima.js",
   "engines" : { 
     "npm" : ">=9.7.2",
-    "node" : ">=20.0.0"
+    "node" : ">=20.0.0",
     },
     "scripts": {
-    "start": "node itxxarima.js"
+    "start": "node itxxarima.js",
   },
   "author": "ArimaTech",
   "license": "MIT license",
@@ -20,5 +20,5 @@
     "body-parser": "^1.20.1",
     "pastebin-js": "^1.0.6",
     "express": "^4.18.1",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
   }

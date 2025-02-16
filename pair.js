@@ -58,17 +58,17 @@ router.get('/', async (req, res) => {
 
                let OKARUN_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃OKARUN_MD_SESSION IS 
+┃MASTERMIND_V1_SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Arima Forger 𖥘
+❶ || Creator = 𖥘 MASTERMIND 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VatUVBSHrDZcV6K0DH0I
 ▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/Arima_x 👈
+Wanna talk to me?👉 https://wa.me/2250565647864. 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 CYBER TECH ☢️*
 
